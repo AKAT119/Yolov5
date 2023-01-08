@@ -1,0 +1,9 @@
+#train & val data
+train: '/home/ubuntu/notebooks/Hari_Solomons_Development/az/yolov5/dataset/images/train'
+val: '/home/ubuntu/notebooks/Hari_Solomons_Development/az/yolov5/dataset/images/val'
+
+#number of classes
+no: 4
+
+#class names
+names: ['prohibitory','danger','mandatory','other']
